@@ -5,7 +5,7 @@
 // You can use entered name variable as $_POST['join_now_name'], e-mail variable as $_POST['join_now_email'], message variable as $message
 
 // Please insert here your email address:
-$myMail  = 'PUT_YOUR_EMAIL_ADDRESS_HERE';
+$myMail  = 'ssbasemaker@gmail.com';
 
 $to      = $myMail;
 $subject = 'Message from '.$_POST['join_now_name'];
