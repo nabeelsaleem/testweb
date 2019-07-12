@@ -5,7 +5,7 @@
 // You can use entered e-mail variable as $_POST['subscription']
 
 // Please insert here your email address:
-$myMail  = 'PUT_YOUR_EMAIL_ADDRESS_HERE';
+$myMail  = 'ssbasemaker@gmail.com';
 
 $to      = $myMail;
 $subject = 'New subscription from '.$_POST['subscription'];
